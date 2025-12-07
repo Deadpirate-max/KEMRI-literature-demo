@@ -1,0 +1,16 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml
+data/index.faiss
+*.pkl
+*.pickle
